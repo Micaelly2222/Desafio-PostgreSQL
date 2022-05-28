@@ -1,7 +1,0 @@
-select count (*)
-from film
-
- 
- 
- 
-	
